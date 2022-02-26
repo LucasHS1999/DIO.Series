@@ -1,0 +1,15 @@
+/home/santos/Documents/Projetos/DIO.Series/bin/Debug/net6.0/DIO.Series
+/home/santos/Documents/Projetos/DIO.Series/bin/Debug/net6.0/DIO.Series.deps.json
+/home/santos/Documents/Projetos/DIO.Series/bin/Debug/net6.0/DIO.Series.runtimeconfig.json
+/home/santos/Documents/Projetos/DIO.Series/bin/Debug/net6.0/DIO.Series.dll
+/home/santos/Documents/Projetos/DIO.Series/bin/Debug/net6.0/DIO.Series.pdb
+/home/santos/Documents/Projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.AssemblyReference.cache
+/home/santos/Documents/Projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/santos/Documents/Projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfoInputs.cache
+/home/santos/Documents/Projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfo.cs
+/home/santos/Documents/Projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/santos/Documents/Projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.dll
+/home/santos/Documents/Projetos/DIO.Series/obj/Debug/net6.0/refint/DIO.Series.dll
+/home/santos/Documents/Projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.pdb
+/home/santos/Documents/Projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.genruntimeconfig.cache
+/home/santos/Documents/Projetos/DIO.Series/obj/Debug/net6.0/ref/DIO.Series.dll
